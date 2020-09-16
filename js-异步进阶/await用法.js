@@ -2,8 +2,13 @@
 async function fn1(){
     return 100
 }
-const res1 = fn1()          //执行的asnyc函数，返回的是一个Promise对象
-// console.log(res1)
+const res1 = fn1()          //执行的asnyc函数，返回的是一个Promise对象[Log] 
+console.log('res1',res1)     //Promise {status: "resolved", result: 100}
+
+!(async function(){
+    const b = await fn1()
+    console.log('b',b)  
+})
 
 !(async function(){
     const p1 = Promise.resolve(300)
