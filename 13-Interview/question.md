@@ -6,3 +6,6 @@
 4. 手写深度比较，模拟loadsh.isEqual
 5. split() 和 join() 的区别？
 6. 数组的 pop、push、unshift、shift分别做什么？
+7. 数组slice() 和 splice() 的区别
+8. [10,20,30].map(parseInt)返回结果是什么？
+9. ajax请求get和post的区别？
