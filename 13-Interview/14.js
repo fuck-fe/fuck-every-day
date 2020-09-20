@@ -14,4 +14,3 @@ document.removeChild()
 //移动
 document.getElementById()
 div.appendChild()
-
