@@ -1,23 +1,23 @@
-# question
+# Question
 
-1. var 和let const 的区别？
-2. typeof返回哪些类型？
-3. 列举强势类型转换和隐式类型转换
-4. 手写深度比较，模拟loadsh.isEqual
-5. split() 和 join() 的区别？
-6. 数组的 pop、push、unshift、shift分别做什么？
-7. 数组slice() 和 splice() 的区别
-8. [10,20,30].map(parseInt)返回结果是什么？
-9. ajax请求get和post的区别？
-10. 函数call 和apply的区别？
-11. 事件代理（委托）是什么？
-12. 闭包是什么？有什么特性？有什么负面影响？
-13. 如何阻止事件冒泡和默认行为？
-14. 查找、添加、删除、移动DOM节点的方法？
-15. 如何减少DOM操作？
-16. 解释jsonp的原理，为何它不是真正的ajax？
-17. document load和ready的区别？
-18. == 和 === 的区别？
-19. 函数声明和函数表达式的区别？
-20. new Object()和Object.create()的区别
-21. 关于this的场景题
+1. var 和let const 的区别? [A](./01.md)
+2. typeof返回哪些类型？[A](./02.md)
+3. 列举强势类型转换和隐式类型转换 [A](./03.md)
+4. 手写深度比较，模拟loadsh.isEqual [A](./04-isEqual.js)
+5. split() 和 join() 的区别？[A](./05.md)
+6. 数组的 pop、push、unshift、shift分别做什么？[A](./06-array.js)
+7. 数组slice() 和 splice() 的区别? [A](./07-array.js)
+8. [10,20,30].map(parseInt)返回结果是什么？[A](./08-array.js)
+9. ajax请求get和post的区别？[A](./09.md)
+10. 函数call 和apply的区别？[A](./10.md)
+11. 事件代理（委托）是什么？[A](./11.md)
+12. 闭包是什么？有什么特性？有什么负面影响？[A](./12.js)
+13. 如何阻止事件冒泡和默认行为？[A](./13.js)
+14. 查找、添加、删除、移动DOM节点的方法？[A](./14.js)
+15. 如何减少DOM操作？[A](./15.md)
+16. 解释jsonp的原理，为何它不是真正的ajax？[A](./16.md)
+17. document load和ready的区别？[A](./17.js)
+18. == 和 === 的区别？[A](./18.md)
+19. 函数声明和函数表达式的区别？[A](./19.md)
+20. new Object()和Object.create()的区别[A](./20.md)
+21. 关于this的场景题[A](./21.md)
