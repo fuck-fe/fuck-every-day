@@ -1,4 +1,6 @@
-# NPM 
+NPM 
+========== 
+
 ## 1 Windows
 ### 1.1
 ```bash
@@ -22,4 +24,11 @@ git config --global core.autocrlf false
 git config --global core.filemode false
 git config --global core.safecrlf true
 2、修改IDE换行格式为LF
+```
+## 2 Mac
+### 2.1 http-server
+```bash
+sudo npm install -g http-server
+http-server -p 8881
+http-server
 ```
